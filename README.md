@@ -1,4 +1,4 @@
-# Python_Exemples
+# Python_Examples
 Exemplos de trechos de códigos em linguagem Python sobre suas principais particularidades.
 Muitos dos exemplos foram retirados da playlist do curso de Python do canal 'Socratica'.
 <p>Link do curso: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-</p>
